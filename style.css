@@ -280,6 +280,9 @@ main {
     }
 }
 @media (max-width: 768px) {
+    .card {
+        width: 100%;
+    }
     .banner {
         padding: 1rem 2rem;
     }
